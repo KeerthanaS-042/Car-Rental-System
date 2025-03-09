@@ -1,5 +1,8 @@
-# Car-Rental-System
-A basic Car Rental System project using MERN stack technologies
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-A **Car Rental System** is a digital platform that streamlines the process of renting vehicles, making it convenient for customers and efficient for rental companies. It allows users to browse available cars, check pricing, make reservations, and manage bookings online. The system typically includes features such as real-time vehicle availability, user authentication, secure payment processing, GPS tracking, and automated billing. Businesses can manage their fleet, track rentals, and optimize vehicle utilization, ensuring seamless operations. Built using modern technologies like **Java, SQL, and web frameworks**, a car rental system enhances user experience, reduces manual work, and improves rental service efficiency. 🚗💨
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
